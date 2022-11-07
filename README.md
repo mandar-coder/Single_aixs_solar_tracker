@@ -9,7 +9,7 @@ Traditionally, solar panels are fixed and the movement of sun over the horizon m
 
 Components Required -
 
-1 x Arduino Uno
+1 x Arduino Uno.
 1 x Servo motor
 1 x Solar panel
 2 x LDR
